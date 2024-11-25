@@ -1,5 +1,3 @@
----
-
 - 👋 Hi, I’m **@Misaragamal96**
 - 👀 I’m interested in **learning programming languages like Python, developing applications, and improving my software development skills.**
 - 🌱 I’m currently learning **Python, Tkinter, and expanding my knowledge in web development.**
@@ -7,9 +5,6 @@
 - 📫 How to reach me: **Email me at neromisara@gmail.com or via my GitHub.**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love problem-solving and exploring new programming techniques to create efficient software.**
-
----
-
 **Explanation of your bio structure:**
 
 - **Introduction**: A clear introduction with your username.
